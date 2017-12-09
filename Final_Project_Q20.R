@@ -1,5 +1,5 @@
 
-"Hello friends,
+cat("Hello friends,
 
 What is your main goal in life?
 
@@ -12,4 +12,4 @@ Do you guys also kill each other over who has more power?
 I hope to meet in peace soon.
 
 Thank You,
-Anmol Bajaj"
+Anmol Bajaj")
